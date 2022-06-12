@@ -1,6 +1,16 @@
 # Santander-Bootcamp-Fullstack-Developer
-Bootcamp Santander na plataforma DIO. (HTML5, CSS3, JavaScript, Angular, JAVA e Spring Framework)
 
+Repositório para o Bootcamp Fullstack Developer Santander pela plataforma DIO.
 
-DIO | Codifique o seu futuro global agora https://www.dio.me
+***
+- **Git/GitHub**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Angular**
+- **JAVA**
+- **Spring Framework**
+***
+
+> #### DIO | Codifique o seu futuro global agora, [Dio.me](https://www.dio.me "É hora de acelerar o seu aprendizado com toda a comunidade.").
 
