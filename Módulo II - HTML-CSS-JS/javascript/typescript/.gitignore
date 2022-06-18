@@ -2,7 +2,6 @@
 node_modules
 # Ignore arquivos relacionados às chaves de API
 .env
-# Ignore arquivos da pasta .cache e dist
+# Ignore arquivos da pasta .cache, dist
 .cache
 dist
-package-lock.json
