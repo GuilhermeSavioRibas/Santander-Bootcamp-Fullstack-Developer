@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Módulo II - HTML-CSS-JS/javascript/typescript",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - Módulo II - HTML-CSS-JS/javascript/typescript",
+			"detail": "install dependencies from package"
+		}
+	]
+}
